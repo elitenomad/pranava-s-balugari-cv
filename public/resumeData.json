@@ -6,7 +6,7 @@
     "employer":"Innowell Pty Ltd.",
     "jobDescription":"full stack software engineer working in mental health space.",
     "image":"pranava_swaroop.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, and a passion for coding. I pursued my first development job 5+ years ago with Fairfax. I was hired as a full stack developer by Fairfax and now by Innowell, where I work today. Since beginning my career I have been tinkering with multiple languages and have affinity towards DevOps space. I am currently working towards completing AWS certifications while working as a full stack developer.",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, and a passion for coding. I pursued my first development job 5+ years ago with Fairfax. I was hired as a full stack developer by Fairfax and now by Innowell, where I work today. Since beginning my career I have been tinkering with multiple languages and have affinity towards DevOps space. I am currently working towards completing AWS certifications and gaining knowledge in GoLang while working as a full stack developer.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "stalin.pranava@gmail.com",
     "phone": "0426806239",
@@ -59,17 +59,23 @@
         "description": "For most of my time at Innowell, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with frontend side of our product. I have worked with our Ruby backend, as well as built node-based google cloud functions for the product. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I started working on isolating frontend and backend of the huge monolith we have as a side project :)."
       },
       {
-        "company":"City of Fort St. John",
-        "title":"Utility Maintenance Technician 1 / Labourer ",
-        "years":"April 2014 - September 2017",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "company":"Fairfax Media Pty Ltd",
+        "title":"Senior Software Engineer",
+        "years":"April 2014 - December 2018",
+        "description": " Worked on strategic initiatives on technology selection, prototypes development, research, development and process improvement.   \n                             Encouraged test driven development as an integral part of delivering software development across the teams.    \n                             Developed unit and integration tests and perform the validation using contemporary tools. Setup continuous development/continuous integration with Codeship and bitbucket.    \n                             Proactively identify and communicate risks and issues to management and create action plans to mitigate risks    \n                             Redesign the apps based on client and sales teams feedback.    \n                             Coordinate with sales and product teams to increase the revenues of the product    \n                             Coordinate with third party integrations to improve revenue stream.    \n                             Manage team work per sprint and engaging peers in code reviews.    \n                             Be part of a team and product owner to transform our delivery framework to an agile and iterative methodology    \n                             Mentor junior developers and engage in peer technical discussions.    \n                             Technology stack migrations (AngularJS to Angular, Rails 3 to 4, Rails 4 to 5)  "
       },
       {
-        "company":"School District 60",
-        "title":"IT Technician",
-        "years":"April 2012 - September 2013",
-        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
-      }
+        "company":"Hewlett Packard Pty Ltd",
+        "title":"Technology consultant II",
+        "years":"August 2010 - August 2013",
+        "description": "In August 2010, I joined Hewlett Packard as a technology consultant for IVR products. I worked for Telefonica O2 UK, MTS India, HP Grenoble Conferencing Solutions, ‘Yes’ Optus  in a span of 3 years which helped me  learn, innovate and adapt to complex environments and customer rich applications. I worked with 'Yes' Optus through Hewlett Packard in Australia, supporting them to enhance their IVR Systems and Front end projects."
+      },
+       {
+         "company": "IBM India Pty Ltd",
+         "title": "System engineer (Associate)",
+         "years": "April 2008 - August 2010",
+         "description": "In May 2007, I got the opportunity to work with IBM India (GBS) as a System Engineer for 3 years  (Provisioning applications for AT&T). During the tenure, I gained experience in the software development life cycle process and also learned the techniques of efficient java/j2ee programming. I handled various modules independently, some of which also interacted with different sets of applications using technologies like web services. Interactions with workflow teams helped me build thinking process towards architecture and functioning of projects."
+       }
     ],
     "skills":[
       {
